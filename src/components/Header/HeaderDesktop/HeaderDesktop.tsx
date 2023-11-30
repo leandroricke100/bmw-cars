@@ -1,4 +1,4 @@
-import React, { FC, useState } from "react";
+import { FC, useState } from "react";
 import "./HeaderDesktop.scss";
 import Logo360 from "../../../assets/icons/360.svg";
 import LogoWhatsapp from "../../../assets/icons/Icon-whatsapp.svg";

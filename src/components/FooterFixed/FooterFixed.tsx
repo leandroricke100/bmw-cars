@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import "./FooterFixed.scss";
 import Telefone from "../../assets/icons/telefone-footer.svg";
 import Logo360 from "../../assets/icons/360-footer.svg";

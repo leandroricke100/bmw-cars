@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import "./HeaderFixed.scss";
 import LogoBmw from "../../assets/logo/logo-bmw-rio.svg";
 

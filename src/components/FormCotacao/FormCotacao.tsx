@@ -1,4 +1,4 @@
-import React, { FC, useState } from "react";
+import { FC, useState } from "react";
 import Carro from "../../assets/icons/carro.svg";
 import "./FormCotacao.scss";
 import {
